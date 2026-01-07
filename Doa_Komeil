@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mosque Weekly Task Scheduler</title>
+    <title>Mosque Weekly Task Scheduler (LIVE)</title>
     <!-- Load Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Use Inter font -->
@@ -20,7 +20,7 @@
         <!-- Header -->
         <header class="text-center py-6 bg-white shadow-lg rounded-xl mb-8">
             <!-- Updated Title -->
-            <h1 class="text-3xl sm:text-4xl font-bold text-gray-800">Weekly Task Assignments for Doa Komeil</h1>
+            <h1 class="text-3xl sm:text-4xl font-bold text-gray-800">Weekly Task Assignments for Doa Komeil (LIVE DEPLOYMENT TEST)</h1>
             <p class="text-lg text-gray-600 mt-2">Sign up for a task for the upcoming four Thursdays.</p>
             
             <!-- Name Input & Display -->
